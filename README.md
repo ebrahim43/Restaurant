@@ -15,4 +15,4 @@ This project is a modern, responsive restaurant website built using HTML, CSS, a
 - **Boxicons**: For including iconography in the website.
 - **Google Fonts**: For typography to enhance the visual design.
 
-## Project Structure: https://ebrahim43.github.io/Restaurant-/
+## Project Structure: [https://ebrahim43.github.io/Restaurant-/](https://ebrahim43.github.io/Restaurant/)
